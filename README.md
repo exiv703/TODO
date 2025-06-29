@@ -5,18 +5,6 @@
 
 ***A modern TODO application built with vanilla JavaScript, featuring dark mode, drag & drop, and task management.***
 
----
-
-## 📋 Table of Contents
-
-- [🚀 Features](#-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📦 Installation](#-installation)
-- [🤖 Usage](#-usage)
-- [🌱 Contributing](#-contributing)
-- [📄 License](#-license)
-
----
 
 ## 🚀 Features
 
@@ -37,20 +25,6 @@
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white) | ![LocalStorage](https://img.shields.io/badge/LocalStorage-4285F4?style=for-the-badge&logo=google&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white) | ![Flatpickr](https://img.shields.io/badge/Flatpickr-000000?style=for-the-badge&logo=flatpickr&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![SortableJS](https://img.shields.io/badge/SortableJS-000000?style=for-the-badge&logo=sortablejs&logoColor=white) | ![Toastify](https://img.shields.io/badge/Toastify-000000?style=for-the-badge&logo=toastify&logoColor=white) |
-
----
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/todomaster.git
-
-# Open in your browser
-open index.html
-```
-
-**Alternative:** Download ZIP from GitHub and open `index.html`
 
 ---
 
@@ -94,11 +68,3 @@ open index.html
 This project is licensed under the **MIT License**.
 
 ---
-
-<div align="center">
-
-### ⭐ Star this repo if you love it!
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/todomaster?style=for-the-badge)](https://github.com/yourusername/todomaster/stargazers)
-
-</div>
